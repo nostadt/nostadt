@@ -8,7 +8,7 @@ Hi, I am an aviation enthusiast and software developer from Germany. Most of the
 
 ### 🔧 Technologies & Tools
 
-To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot I use in both my free time and daily business. Furthermore it is NOT intended to be complete. You're invited to [start a discussion](https://github.com/AMartinNo1/AMartinNo1/discussions) if you want to know more.
+To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot I use in both my free time and daily business. Furthermore it is NOT intended to be complete. You're invited to [start a discussion](https://github.com/AMartinNo1/AMartinNo1/discussions) when you want to know more.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
@@ -23,6 +23,7 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Tool-Adobe_Premiere_Pro-informational?style=flat&logo=AdobePremierePro&logoColor=white&color=9999FF)
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/Tool-Adobe_XD-informational?style=flat&logo=AdobeXD&logoColor=white&color=FF61F6)
 
 
 ## &#x270d; Blog & Writing
