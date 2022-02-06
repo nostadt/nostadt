@@ -1,14 +1,10 @@
-[![LoveIsEssential](https://img.shields.io/badge/LOVE-love--is--essential--info-%23e64946?style=for-the-badge)](https://loveisessential.info/)
-[![LoveIsNotTourism](https://img.shields.io/badge/LOVE-love--is--not--tourism--org-%23e64946?style=for-the-badge)](https://loveisnottourism.org/)
-[![LoveIsEssentialDE](https://img.shields.io/badge/LOVE-love--is--essential--de-%23e64946?style=for-the-badge)](https://www.loveisessential.de/)
-
 # Welcome 👋
 
 Hi, I am an aviation enthusiast and software developer from Germany. Most of the time I work with [TYPO3](https://github.com/TYPO3/TYPO3.CMS/) at [Constructiva Solutions GmbH](https://www.constructiva.de/).
 
 ### 🔧 Technologies & Tools
 
-To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot I use in both my free time and daily business. Furthermore it is NOT intended to be complete. You're invited to [start a discussion](https://github.com/AMartinNo1/AMartinNo1/discussions) when you want to know more.
+To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot I use in both my free time and daily business. Furthermore it is NOT intended to be complete. You're invited to [start a discussion](https://github.com/nostadt/nostadt/discussions) when you want to know more.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
@@ -28,16 +24,16 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 
 ## &#x270d; Blog & Writing
 
-In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfurtflyer.de/author/alex/) which is a german aviation blog. The main focus points are flight/hotel reviews, credit cards and loyality programs with travel context.
+In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfurtflyer.de/author/alex/), which is a german aviation blog. The main focus points are flight/hotel reviews, credit cards and loyality programs with travel context.
 
 ## 🆓 My Open Source projects / demo repositories
 
-<a href="https://github.com/AMartinNo1/ama_t3_upgrade_assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMartinNo1&repo=ama_t3_upgrade_assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/nostadt/ama-t3-upgrade-assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=ama-t3-upgrade-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/AMartinNo1/typo3_type_converter_example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMartinNo1&repo=typo3_type_converter_example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/nostadt/typo3_type_converter_example">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=typo3_type_converter_example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ## 👁️ More projects
