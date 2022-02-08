@@ -32,8 +32,8 @@ In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfur
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=ama-t3-upgrade-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/nostadt/typo3_type_converter_example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=typo3_type_converter_example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/nostadt/typo3-type-converter-example">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=typo3-type-converter-example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ## 👁️ More projects
