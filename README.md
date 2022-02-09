@@ -26,14 +26,10 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 
 In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfurtflyer.de/author/alex/), which is a german aviation blog. The main focus points are flight/hotel reviews, credit cards and loyality programs with travel context.
 
-## 🆓 My Open Source projects / demo repositories
+## 🆓 My Open Source projects
 
 <a href="https://github.com/nostadt/ama-t3-upgrade-assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=ama-t3-upgrade-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-<a href="https://github.com/nostadt/typo3-type-converter-example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=typo3-type-converter-example&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ## 👁️ More projects
