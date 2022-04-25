@@ -32,12 +32,6 @@ In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfur
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=ama-t3-upgrade-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-## 👁️ More projects
-
-<img align="center" src="https://gcmap.de/og_image.png" width="28" height="28"/> My current main non open source but free to use project is [Great Circle Mapper - Made in Germany](https://gcmap.de/en). You can use the Great Circle Mapper to calculate the circa distance between freely chosen airports. It is useable on smartphones, tablets and your computer. In addition you can export the result to ODS and XLSX.
-
-Aside from that I work on other things in the background but they're not ready at all yet to be made public.
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
