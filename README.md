@@ -21,11 +21,6 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/Tool-Adobe_XD-informational?style=flat&logo=AdobeXD&logoColor=white&color=FF61F6)
 
-
-## &#x270d; Blog & Writing
-
-In my free time I blog semi actively on [frankfurtflyer.de](https://www.frankfurtflyer.de/author/alex/), which is a german aviation blog. The main focus points are flight/hotel reviews, credit cards and loyality programs with travel context.
-
 ## 🆓 My Open Source projects
 
 <a href="https://github.com/nostadt/ama-t3-upgrade-assistant">
