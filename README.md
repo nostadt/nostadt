@@ -23,8 +23,8 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 
 ## 🆓 My Open Source projects
 
-<a href="https://github.com/nostadt/ama-t3-upgrade-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=ama-t3-upgrade-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/nostadt/php-share-url">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=php-share-url&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <!-- Resources -->
