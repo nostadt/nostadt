@@ -21,12 +21,6 @@ To simplify the maintenance this list is a mix of Tools, OS, Editors and whatnot
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/Tool-Adobe_XD-informational?style=flat&logo=AdobeXD&logoColor=white&color=FF61F6)
 
-## 🆓 My Open Source projects
-
-<a href="https://github.com/nostadt/php-share-url">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nostadt&repo=php-share-url&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
