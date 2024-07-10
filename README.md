@@ -1,6 +1,6 @@
 # Welcome / Mabuhay / Moin 👋
 
-Hi, I am an aviation enthusiast and software developer from Germany. Most of the time I work with [TYPO3](https://github.com/TYPO3/TYPO3.CMS/) at [Constructiva Solutions GmbH](https://www.constructiva.de/).
+Hi, I am a travel enthusiast and software developer from Germany. I enjoy building scalable and maintable software and work at [Constructiva Solutions GmbH](https://www.constructiva.de/).
 
 ### 🔧 Technologies & Tools
 
